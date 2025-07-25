@@ -1,0 +1,29 @@
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# Database Connections
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+sqlite3  # Built-in with Python
+
+# Authentication and Security
+bcrypt>=4.0.0
+PyJWT>=2.8.0
+
+# AI and Machine Learning
+openai>=1.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0  # For Excel file support
+
+# Visualization
+plotly>=5.15.0
+
+# Development and Testing (optional)
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
+mypy>=1.5.0
